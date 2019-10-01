@@ -1,26 +1,28 @@
 # phabulous-macros
-fb chat macros
+Use phabulous macros in your facebook chat now!
 
 
 # How to use
 
-Put your credentials in credentials file
+Write your credentials in `credentials` file
 
-first line: email
-second line: password
+* first line: email
+* second line: password
 
-e.g:
-
+Example
+```
 yolo@yolo.com
 
 yolopassword
+```
+
+MAKE SURE YOU RUN THIS BOT ON A SECURE SYSTEM - WATCH OUT FOR YOUR CREDENTIALS
 
 
-MAKE SURE YOU RUN THIS BOT ON A SECURE SISTEM
-
-
-run:
-`python3 macrobot.py`
+Run on your server:
+`nohup python3 macrobot.py`
 
 
 Profit!
+#m zucc
+
